@@ -20,6 +20,7 @@ for i=1:seq.frames ;
     imagesc(I) ; axis image ; 
     pause(0.1) ; 
 end ;
+close_seq(seq) ;
 ``` 
 
 
